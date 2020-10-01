@@ -4,6 +4,7 @@ Repositório complementar do canal [WDEV](https://youtube.com/wdevoficial) para 
 
 Nesse repositório você vai encontrar variáveis CSS e arquivos de imagens necessários para a implementação do frontend.
 
+___________________
 
 ## Vídeo WDEV
 
