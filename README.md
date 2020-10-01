@@ -4,6 +4,11 @@ Repositório complementar do canal [WDEV](https://youtube.com/wdevoficial) para 
 
 Nesse repositório você vai encontrar variáveis CSS e arquivos de imagens necessários para a implementação do frontend.
 
+
+## Vídeo WDEV
+
+Para assistir o vídeo dessa implementação, acesse: [Jogo da Forca em Vue.js: Aprendendo sobre componentes reutilizáveis, props e inputs de formulário](https://youtu.be/M80y-fPHmWM)
+
 ___________________
 
 ## Variáveis CSS
